@@ -17,7 +17,7 @@
 	<properties>
 		<java.version>23</java.version>
 		<bt.version>1.10</bt.version>
-		<spring.content.version>3.0.15</spring.content.version>
+		<spring.content.version>3.0.16</spring.content.version>
 		<maven-compiler-plugin.version>3.13.0</maven-compiler-plugin.version>
 		<maven.compiler.proc>full</maven.compiler.proc>
 	</properties>
